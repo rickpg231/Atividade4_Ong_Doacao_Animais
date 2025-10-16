@@ -9,7 +9,7 @@ Entrega final do projeto da disciplina, consolidando práticas profissionais de 
 
 ## Deploy e Estrutura
 - Repositório público hospedado no GitHub:  
-  https://rickpg231.github.io/Atividade4_Ong_Doacao_Animais/
+  https://rickpg231.github.io/Atividade4_Ong_Adocao_Animais/
 
 - Branch principal: `main`  
 - Versão atual: **v4.0.0**
